@@ -2,6 +2,8 @@
 
 A feature-packed Snake game built in C++ for Windows console, featuring **multiple levels**, **custom wall designs**, **progressive difficulty**, and smooth console rendering.
 
+<img width="510" height="602" alt="image" src="https://github.com/user-attachments/assets/4e16950f-e213-43c0-ab90-40ab5a268f75" />
+
 
 ## 🎮 Game Features
 
